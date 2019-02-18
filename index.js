@@ -1,4 +1,1 @@
-console.log('Hello, World!'); 
-node ;index.js; 
-
-
+console.log("node index.js")
