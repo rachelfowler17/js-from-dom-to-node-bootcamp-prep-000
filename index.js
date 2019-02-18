@@ -1,2 +1,3 @@
 console.log('Hello, World!'); 
-n
+index.js
+
